@@ -1,0 +1,16 @@
+PASOS PARA LA INSTALACIÓN
+--Instalar node
+--Instalar flutter en disco duro
+--Instalar firebase con npm //documentación
+--Crear proyecto y db en firebase (posiblemente ya este creada, en ese caso ignorar este paso)
+--Crear app en IDE de preferencia usando flutter (posiblemente ya este creada, en ese caso ignorar este paso)
+-- Agregar app al proyecto de firebase (posiblemente ya este creada, en ese caso ignorar este paso)
+-- En el proyecto de flutter, inicializar firebase con firebase init (si se importa desde git, no hacer)
+-- Se instala flutterfire con dart pub global activate flutterfire_cli (si se importa desde git, no hacer)
+-- Se activa flutterfire con el comando flutterfire configure (si se importa desde git, no hacer)
+-- Se agregan las dependencias de firebase flutter pub add firebase_core y flutter pub add cloud_firestore (si se importa desde git, no hacer)
+-- Se crea el archivo de firebase_options, tomando la información del archivo google-services.json, guiarse de la estructura del archivo del proyecto. (si se importa desde git, no hacer)
+-- Importar librerías firecloud y el archivo firebase_options en el main.dart
+-- Guiarse del void main async para para inicializar la app con firebase
+-- Hacer los llamados a la db
+-- Disfrute :)
