@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "971538646754",
+    "project_id": "crudcitoflutter",
+    "storage_bucket": "crudcitoflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971538646754:android:a55b2cbe581dd684ed40bb",
+        "android_client_info": {
+          "package_name": "com.example.crud_oficial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1U7_hE844P0lekdNWrC79N9lfiYVUsPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971538646754:android:7ba2c9802a876e29ed40bb",
+        "android_client_info": {
+          "package_name": "com.example.crudcito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1U7_hE844P0lekdNWrC79N9lfiYVUsPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971538646754:android:74def0d6a9afbe35ed40bb",
+        "android_client_info": {
+          "package_name": "com.example.practicas_de_sara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1U7_hE844P0lekdNWrC79N9lfiYVUsPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
